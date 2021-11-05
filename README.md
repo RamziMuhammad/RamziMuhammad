@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Ramzi Muhammad
+- 👀 I’m interested in learning to code more and more
+- 🌱 I’m currently learning Computer Engineering in Shoubra
+- 💞️ I’m looking to collaborate with other developers
+- 🤲 2021 Goals: Contribute more to Open Source Projects
