@@ -43,7 +43,7 @@
 
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramzimuhammad&langs_count=10&theme=tokyonight&layout=compact" alt="RamziMuhammad" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RamziMuhammad&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="RamziMuhammad" />
     <br>
-	<img src="https://github-readme-stats.vercel.app/api/?username=ramzimuhammad&show_icons=true&title_color=70A4FC&icon_color=EE8539&text_color=38BCAD&bg_color=1A1B27" alt="RamziMuhammad" />
+    <img src="https://github-readme-stats.vercel.app/api?username=RamziMuhammad&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="RamziMuhammad" />
 </p>
