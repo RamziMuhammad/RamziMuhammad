@@ -4,11 +4,12 @@
     <img src="https://github.com/RamziMuhammad/RamziMuhammad/blob/main/Assets/Mona-Loading-Dark.gif" width="40px" />
   </h1>
   <h2>
-    Computer Engineering Student
+    Software Engineer
     <img src="https://github.com/RamziMuhammad/RamziMuhammad/blob/main/Assets/Programmer.gif" width="40px" />
   </h2>
   <img src="https://komarev.com/ghpvc/?username=RamziMuhammad" alt="Profile views" />
 </div>
+
 
 <div>
     <img align="right" alt="Coding" width="275" src="https://github.com/RamziMuhammad/RamziMuhammad/blob/main/Assets/Coding.gif" />
