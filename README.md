@@ -34,7 +34,7 @@
     <a href="https://fb.com/ramseymohamad">
         <img src="https://github.com/RamziMuhammad/RamziMuhammad/blob/main/Assets/Facebook.png" alt="Facebook" height="45" width="45" />
     </a>
-    <a href="https://linkedin.com/in/ramzi-muhammad">
+    <a href="https://linkedin.com/in/ramzimuhammad">
         <img src="https://github.com/RamziMuhammad/RamziMuhammad/blob/main/Assets/Linkedin.png" alt="LinkedIn" height="45" width="45" />
     </a>
 </div>
