@@ -12,12 +12,12 @@
 
 
 <div>
-    <img align="right" alt="Coding" width="275" src="https://github.com/RamziMuhammad/RamziMuhammad/blob/main/Assets/Coding.gif" />
+    <img align="right" alt="Coding" width="40%" src="https://github.com/RamziMuhammad/RamziMuhammad/blob/main/Assets/Coding.gif" />
     <p align="left">
         👀 I’m interested in learning to code more and more
         <br>
         <br>
-        🌱 I’m currently learning Computer Engineering in Shoubra
+        🌱 I'm currently full stack web developer
         <br>
         <br>
         💞️ I’m looking to collaborate with other developers
@@ -26,7 +26,7 @@
         ⚡ Others’ magic is our engineering
         <br>
         <br>
-        🤲🏻 2023 Goals: Contribute more to Open Source Projects
+        🤲🏻 2024 Goals: Contribute more to Open Source Projects
     </p>
 </div>
 <h3 align="left">☎️👨🏼 Connect with me:</h3>
@@ -38,6 +38,7 @@
         <img src="https://github.com/RamziMuhammad/RamziMuhammad/blob/main/Assets/Linkedin.png" alt="LinkedIn" height="45" width="45" />
     </a>
 </div>
+
 
 <h3 align="left">
     <img src = "https://github.com/RamziMuhammad/RamziMuhammad/blob/main/Assets/Dynamic-Graph.gif" width=35px />
